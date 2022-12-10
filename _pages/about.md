@@ -16,7 +16,7 @@ Working Paper
 Yifei Huang, Zhiyuan Tang, Weina Wang (alphabetical order)  
 Submitted to ACM SIGMETRICS 2023
 
-**Classification with Set-Valued Labels**
+**Classification with Set-Valued Labels**  
 with Ganghua Wang and Jie Ding  
 In progress
 
