@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Beijing, CN"
+locale                   : "Richardson, TX, US"
 title                    : "Zhiyuan Tang"
 title_separator          : "-"
 name                     : &name "Zhiyuan Tang"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Zhiyuan Tang"
   avatar           : "profile.png"
-  bio              : "Undergraduate at Tsinghua University"
-  location         : "Beijing, CN"
+  bio              : "PhD student at UT Dallas"
+  location         : "Richardson, TX, US"
   employer         :
   pubmed           : 
   googlescholar    : 
