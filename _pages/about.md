@@ -8,22 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate at Tsinghua University with research interest in statistical machine learning, online learning and sequential decision making. I am extremenly lucky to be supervised by [Prof. Jie Ding](http://jding.org) and [Prof. Weina Wang](http://www.cs.cmu.edu/~weinaw/) during my undergraduate study.
+I am a first-year PhD student at UT Dallas. I am broadly interested in topics related to stochastic system, sequential decision-making, online learning and statistical learning. 
 
 Working Paper
 ======
-**On the Exploration in Load-Balancing with Unknown Service Rates**  
+**Learning to Dispatch Jobs in Queueing Systems with Unknown, Possibly
+Non-stationary Service Rates**  
 Yifei Huang, Zhiyuan Tang, Weina Wang (alphabetical order)  
-Submitted to ACM SIGMETRICS 2023.
+Submitted to AAAI 2024.
 
-**Classification with Set-Valued Labels**  
-with Ganghua Wang and Jie Ding  
-In progress.
 
-Miscellaneous
-======
-I enjoy music, choral arts and jazz dance in my free time. I am a member of Tsinghua Students Choir and my part is alto. I like to watch movies and TV plays too. I am a fan of the Netflix series *the Stranger Things* since high school.
 
-My profile photo is taken by my friend [Shawn](https://www.linkedin.com/in/zeshengfu/).
-
-My sister [Ningjing Tang](https://ningjingtang.com/).
