@@ -15,8 +15,9 @@ I am a second-year PhD student in Operations Management at Naveen Jindal School 
 Working Paper
 ======
 [**Match Made with Matrix Completion: Efficient Offline and Online Learning in Matching Markets**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4976903) 
+
 Zhiyuan Tang, Wanning Chen\*, Kan Xu\*  
-Accepted for presentation at M&SOM 2024, Minneapolis.  
+POMS-HK International Conference Best Student Paper Competition, First Place, 2025.
 *Equal Contribution
 
 
